@@ -1,6 +1,4 @@
-Here's an explanation for the project to be included in your GitHub README:
 
----
 
 # Advanced Virtual Teaching Assistant Platform for USC
 
@@ -24,6 +22,4 @@ This project involves the development of an **Advanced Virtual Teaching Assistan
 ## Conclusion:
 This project demonstrates the effectiveness of advanced AI techniques in creating a virtual teaching assistant that can significantly improve the student experience. By combining **real-time Q&A**, **efficient data retrieval**, and **multimedia support**, the platform provides a rich, interactive environment for students to engage with their coursework.
 
----
 
-Feel free to adjust the explanation as needed!
